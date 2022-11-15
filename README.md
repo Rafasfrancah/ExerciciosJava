@@ -1,2 +1,2 @@
 # ExerciciosJava
-Exercícios resolvidos sobre estruturas sequenciais, condicionais e repetitivas.
+Exercícios resolvidos sobre: Estruturas sequenciais, condicionais e repetitivas.
